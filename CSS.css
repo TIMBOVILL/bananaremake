@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #8b8000;
+}
+
+.container {
+    text-align: center;
+}
+
+#counter {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+#banana {
+    cursor: pointer;
+    max-width: 90%;
+    width: 300px; 
+    height: auto;
+}
